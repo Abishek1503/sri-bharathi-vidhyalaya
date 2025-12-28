@@ -29,8 +29,15 @@ const fredoka = Fredoka({
 
 export const metadata: Metadata = {
   title: 'SRI BHARATHI VIDHYALAYA',
-  description: 'Celebrating 25 years of successful educational service. Admissions open for Pre-KG to 5th Standard for Academic Year 2026-2027.',
-  keywords: 'school, education, pre-kg, lkg, ukg, primary school, Tiruvallur, TamilNadu',
+  description:
+    'Celebrating 25 years of successful educational service. Admissions open for Pre-KG to 5th Standard for Academic Year 2026-2027.',
+  keywords:
+    'school, education, pre-kg, lkg, ukg, primary school, Tiruvallur, TamilNadu',
+
+  verification: {
+    google: 'IhfbKxbOhDlRUDU1wxagUi08xKuLwPYVrGmbO0ppG74',
+  },
+
   icons: {
     icon: '/gallery/favicon.ico',
     apple: '/apple-touch-icon.png',
